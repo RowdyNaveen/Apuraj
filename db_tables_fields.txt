@@ -1,0 +1,76 @@
+Registration table(registry):
+	fields:
+		profile_pic
+		username
+		first_Name
+		last_Name
+		Phone
+		email
+		Address
+		address_check(default or not)(hint:if you check default. automatically store for orders address)
+		Gender
+		password
+		confirm password
+		
+Login:
+	fields:
+		username
+		password
+items tables:
+	categories:
+		business attire
+		casual wear
+		formal wear
+		Lingeries
+		sportswear
+	gender and age:
+		baby clothes
+		childrens wear
+		menswear
+		womenswear
+	garment:
+		bloomers
+		blouse
+		bodysuit
+		bra
+		bustier
+		caftan
+		cardigan
+		cloak
+		coat
+		corset
+		dress
+		dungarees
+		jacket
+		jeans
+		jumper
+		jumpsuit
+		kilt
+		kimono
+		knickerbockers
+		leggings
+		legwarmers
+		leotard
+		panties
+		pants / trousers
+		petticoat
+		playsuit
+		poncho
+		pajamas
+		sarong
+		shawl
+		shirt
+		shorts
+		skirt
+		skort
+		sock
+		sweater
+		swimsuit
+		teddy
+		tie
+		tights
+		tops
+		tracsuit
+		t-shirt
+		waistcoat
+		
